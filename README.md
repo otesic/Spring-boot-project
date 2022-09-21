@@ -53,7 +53,7 @@ Spring boot 내장 Tomcat
 <hr>
 
 
-![개념적설계](https://user-images.githubusercontent.com/103405475/188260054-880fe0eb-01b7-4412-b110-e793ae68b59c.png)
+![개념적설계]()
 
 
 <hr>
@@ -62,7 +62,7 @@ Spring boot 내장 Tomcat
 ERD 개념적설계
 <hr>
 
-![개념적설계](https://user-images.githubusercontent.com/103405475/188258312-34ca6a21-beaf-4af2-b0db-701e21fccfb4.png)
+![개념적설계]()
 
 <hr>
 
@@ -84,7 +84,7 @@ review 테이블 (user의 uno와 조인)  (regDate와 modDate는 Mother Entity�
 |　　　|2|리뷰제목2|리뷰내용2|작성일2|수정일2|
 |　　　|3|리뷰제목3|리뷰내용3|작성일3|수정일3|
 <hr>
-<br>>
+<br>
 
 reserve 테이블 (user의 uno와 조인) (regDate와 modDate는 Mother Entity상속)
 |reserve|vno|movieName|chairNum|regDate|modDate
