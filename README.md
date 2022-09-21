@@ -53,7 +53,7 @@ Spring boot 내장 Tomcat
 <hr>
 
 
-![개념적설계]()
+![개념적설계](https://user-images.githubusercontent.com/108254297/191627395-edca0595-d404-48d0-9f12-5b26b70cf5d7.jpg)
 
 
 <hr>
@@ -62,7 +62,7 @@ Spring boot 내장 Tomcat
 ERD 개념적설계
 <hr>
 
-![개념적설계]()
+![개념적설계](https://user-images.githubusercontent.com/108254297/191627391-528f52c8-14ee-4794-acc7-69c4bb2ee9ab.jpg)
 
 <hr>
 
