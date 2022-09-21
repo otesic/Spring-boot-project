@@ -28,7 +28,7 @@ Java, Spring boot, JPA, Jquery 를 활용하여
 6. 게시글 수정
 7. 게시글 삭제
 ```
-## 시연가능한 OS
+## 구동 OS
 ```
 Window 10,11
 ```
